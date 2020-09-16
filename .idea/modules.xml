@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GitWorkspace-PdfCase.iml" filepath="$PROJECT_DIR$/.idea/modules/GitWorkspace-PdfCase.iml" group="PdfCase" />
       <module fileurl="file://$PROJECT_DIR$/PdfCase.iml" filepath="$PROJECT_DIR$/PdfCase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PdfCase-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PdfCase-app.iml" group="PdfCase/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
